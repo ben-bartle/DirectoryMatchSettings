@@ -1,0 +1,16 @@
+{
+	"configs":[
+		{
+			"match": "^.*[.]py$",
+			"settings": {
+				"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme"	
+			}
+		},
+		{
+			"match": "\/User\/",
+			"settings": {
+				"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme"	
+			}
+		},
+	]
+}
