@@ -1,16 +1,19 @@
 {
 	"configs":[
-		{
-			"match": "^.*[.]py$",
-			"settings": {
-				"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme"	
-			}
-		},
-		{
-			"match": "\/User\/",
-			"settings": {
-				"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme"	
-			}
-		},
+		// Sample settings for all '.py' files
+		// {
+		// 	"match": "^.*[.]py$",
+		// 	"settings": {
+		// 		"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme"	
+		// 	}
+		// },
+		
+		// Sample settings for all files with /User/ in their path
+		// {
+		// 	"match": "\/User\/",
+		// 	"settings": {
+		// 		"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme"	
+		// 	}
+		// },
 	]
 }
